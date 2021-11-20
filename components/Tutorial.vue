@@ -11,9 +11,10 @@
       sm:items-center sm:pt-0
     "
   >
-    <link
+    testing........
+    <!-- <link
       href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css"
       rel="stylesheet"
-    />
+    /> -->
   </div>
 </template>
